@@ -85,7 +85,7 @@ The project uses the following Python packages:
 3. **Open `life_expectancy.ipynb`**
    - The notebook contains the complete analysis pipeline
    - Run cells sequentially from top to bottom
-   - All visualizations will be saved to the `figures/` directory
+   - Note: The notebook contains more results than the pdf because we have choosed the most interesting results, if you want to see the results from the pdf just look at the titles and choose the cells with the features that appears in the paper
 
 4. **Data Loading**
    - The notebook automatically loads data from `data/Life Expectancy Data.csv`
